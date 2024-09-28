@@ -13,7 +13,7 @@ A passionate frontend developer from Bengaluru, India
 
 📫 How to reach me: dipendrasingh00748@gmail.com
 
-📄 Know about my experiences:https://github.com/your-username/repository-name/blob/main/Dipendra-Kumar-Singh-Resume.pdf
+📄 Know about my experiences:[Resume]https://github.com/your-username/repository-name/blob/main/Dipendra-Kumar-Singh-Resume.pdf
 
 
 Connect with me:  
