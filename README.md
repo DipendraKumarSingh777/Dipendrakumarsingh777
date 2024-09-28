@@ -13,7 +13,7 @@ A passionate frontend developer from Bengaluru, India
 
 📫 How to reach me: dipendrasingh00748@gmail.com
 
-📄 Know about my experiences: [Resume](https://flowcv.com/resume/alrjp0l52n)
+📄 Know about my experiences: [Resume]("C:\Users\dipendra\Downloads\Dipendra-kumar-singh-FlowCV-Resume-20240928.pdf")
 
 Connect with me:  
 [LinkedIn](https://www.linkedin.com/in/dipendra-kumar-singh-4556ab26b/) | [Instagram](https://www.instagram.com/samirkumar1695/) | [LeetCode](https://leetcode.com/u/dipendra_kumar_singh/)
