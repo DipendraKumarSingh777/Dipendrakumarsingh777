@@ -1,7 +1,7 @@
 Hi 👋, I'm Dipendra Kumar Singh  
 A passionate frontend developer from Bengaluru, India
 
-![Profile Picture](https://github.com/DipendraKumarSingh777/path-to-your-image.jpg) <!-- Replace this with your image path -->
+![preview img](/preview.png)
 
 🔭 I’m currently working on Aayush portal
 
