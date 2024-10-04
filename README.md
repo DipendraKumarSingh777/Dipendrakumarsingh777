@@ -1,5 +1,5 @@
 Hi 👋, I'm Dipendra Kumar Singh  
-A passionate frontend developer from Bengaluru, India
+A passionate dev-ops enginner and frontend developer from Bengaluru, India
 
 ![preview img](/preview1.png)
 
