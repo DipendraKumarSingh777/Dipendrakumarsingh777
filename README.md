@@ -9,7 +9,7 @@ A passionate dev-ops enginner and frontend developer from Bengaluru, India
 
 👨‍💻 All of my projects are available at [https://github.com/DipendraKumarSingh777](https://github.com/DipendraKumarSingh777)
 
-💬 Ask me about HTML, CSS, JavaScript
+💬 Ask me about HTML, CSS, JavaScript, linux,shell scripting
 
 📫 How to reach me: dipendrasingh00748@gmail.com
 
